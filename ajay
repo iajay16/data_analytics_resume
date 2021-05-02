@@ -1,0 +1,130 @@
+---
+title: "Ajay Parthasarathy"
+author: Ajay Parthasarathy
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>ajay.parthasarathy16@@gmail.com
+- <i class="fa fa-github"></i> [github.com/iajay16/](https://github.com/iajay16)
+<!-- - <i class="fa fa-phone"></i> +1 781-539-5409 -->
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Product Design 
+
+- Basic Data Analytics
+
+- Marketing 
+
+- Basic Machine Learning
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Ajay Parthasarathy {#title}
+--------------------------------------------------------------------------------
+
+### Currently looking for a full time job
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Innovation and Management
+
+Medford, MA
+
+2020--Current
+
+
+### Undergraduate University
+
+Bachelor in Engineering - Information Technology
+
+Navi Mumbai, India
+
+2012--2017
+
+
+
+Job Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Founder and CEO
+
+Tortilla Studio
+
+2016--2020
+
+- Responsible for core business activities like BD and Marketing 
+- Growth hacked the company to $40,000 in revenue 
+- Handled design projects on a case by case basis
+
+
+
+Selected Project Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Web Scraping Tool
+
+DY Patil University 
+
+Navi Mumbai, India
+
+2016--2017
+
+<!--::: concise-->
+- Designed front end UI/UX for a web scraping tool for SEO 
+- Assisted the main developer in writing Javascript code for backend.
+<!--:::-->
+
+
+
+
+### Identity Design
+
+Metá Identita
+
+Mumbai, India
+
+2017
+
+- Part of brainstorming team to create narratives for brand identity
+- Worked on designing the logo and brand communication using Adobe Illustrator 
+
+
+
+
